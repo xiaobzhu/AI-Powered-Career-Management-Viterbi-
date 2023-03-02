@@ -46,7 +46,7 @@ The objective of this project is to develop a series of Natural Language Process
 | AI Powered Career Management Team | Developer; responsible for the development of NLP project | Good communication with other stakeholder, detailed documentation, accurate and efficient project development by using mature project management skills |
 
 ## Documentation
-We use [OneDrive]([AI Powered Career Management](https://anu365-my.sharepoint.com/:f:/g/personal/u7195617_anu_edu_au/EpV98gmF6ExHoM_YwlKGaS4BTMrg6x6LeVt2t6ljwCP4EQ?e=enDRfi)) for project documentation.
+We use OneDrive [AI Powered Career Management](https://anu365-my.sharepoint.com/:f:/g/personal/u7195617_anu_edu_au/EpV98gmF6ExHoM_YwlKGaS4BTMrg6x6LeVt2t6ljwCP4EQ?e=enDRfi) for project documentation.
 
 ## Meeting
 * Meeting with client: 
@@ -84,7 +84,7 @@ We use [OneDrive]([AI Powered Career Management](https://anu365-my.sharepoint.co
 
 * [Slack](https://app.slack.com/client/T04PVT64N4E/C04QTKYQY4V/thread/C04Q2FCDR0A-1677141743.908959) & Wechat&WhatsApp: team communication
 * OneDrive([AI Powered Career Management](https://anu365-my.sharepoint.com/:f:/g/personal/u7195617_anu_edu_au/EpV98gmF6ExHoM_YwlKGaS4BTMrg6x6LeVt2t6ljwCP4EQ?e=enDRfi)): project documentation
-* [Trello](https://trello.com/chiianlp): project notes
+* [Trello](https://trello.com/invite/b/TLbKNyga/ATTI982a42e4028212eee4e85fe9addb5ddf3F82A83F/project-management): project notes
 
 ### Development tools
 
