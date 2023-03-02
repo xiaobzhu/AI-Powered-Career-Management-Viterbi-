@@ -83,7 +83,7 @@ We use [OneDrive]([AI Powered Career Management](https://anu365-my.sharepoint.co
 ## Tools
 
 * [Slack](https://app.slack.com/client/T04PVT64N4E/C04QTKYQY4V/thread/C04Q2FCDR0A-1677141743.908959) & Wechat&WhatsApp: team communication
-* [OneDrive]([AI Powered Career Management](https://anu365-my.sharepoint.com/:f:/g/personal/u7195617_anu_edu_au/EpV98gmF6ExHoM_YwlKGaS4BTMrg6x6LeVt2t6ljwCP4EQ?e=enDRfi)): project documentation
+* OneDrive([AI Powered Career Management](https://anu365-my.sharepoint.com/:f:/g/personal/u7195617_anu_edu_au/EpV98gmF6ExHoM_YwlKGaS4BTMrg6x6LeVt2t6ljwCP4EQ?e=enDRfi)): project documentation
 * [Trello](https://trello.com/chiianlp): project notes
 
 ### Development tools
